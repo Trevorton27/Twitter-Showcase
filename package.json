@@ -6,6 +6,7 @@
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.6",
     "@testing-library/user-event": "^12.8.3",
+<<<<<<< HEAD
     "axios": "^0.21.1",
     "bootstrap": "^5.0.0-beta3",
     "bootstrap4": "*",
@@ -15,6 +16,10 @@
     "react-dom": "^17.0.2",
     "react-router": "^5.2.0",
     "react-router-dom": "^5.2.0",
+=======
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+>>>>>>> 5ec61c34 (Initialize project using Create React App)
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.1"
   },
@@ -41,6 +46,7 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+<<<<<<< HEAD
   },
   "description": "A twitter app",
   "main": "server.js",
@@ -51,5 +57,7 @@
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.7"
+=======
+>>>>>>> 5ec61c34 (Initialize project using Create React App)
   }
 }
